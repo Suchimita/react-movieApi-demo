@@ -3,7 +3,8 @@ The sample app is showcasing top-rated movies by themoviedb.
 #  Features!
 
   - Single page application 
-  - Showing top-rated movies by themoviedb
+  - Showing top-rated movies by themoviedb  
+  lll
 
 ### tech
 
